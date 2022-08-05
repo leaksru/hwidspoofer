@@ -26,4 +26,6 @@ Rust
 Overwatch
 and moree!
 
+Update 1.1 Released : https://github.com/leaksru/hwidspoofer/releases/tag/1.1
+
 ![spoofer](https://user-images.githubusercontent.com/70449263/182138882-b474ae15-9e3f-44fd-ae60-e643b9f06204.PNG)
